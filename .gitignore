@@ -1,0 +1,4 @@
+.idea/
+*.pyc
+Testenv/
+tz/migrations/
